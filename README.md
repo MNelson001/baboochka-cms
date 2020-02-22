@@ -3,10 +3,11 @@ BABOOCHKA CMS
 -- Build / Configure / Deploy Progressive Web Applications using NextJS
 
 Development:
-  To start development:
-    - npm install
-    - npm run dev
-
+    
+    To start development:
+    npm install
+    npm run dev
+    
     This will start the `NextJS` dev server on localhost:3000
 
     Current:
